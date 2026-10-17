@@ -1,0 +1,17 @@
+[workspace]
+resolver = "2"
+members = [
+    "crates/encode_quant_lib",
+    "crates/flac_validate_lib",
+    "crates/hdr_compare_lib",
+    "crates/hsl_to_rgb_lib",
+    "crates/hsv_to_rgb_lib",
+    "crates/max_size_frame_lib",
+    "crates/md5_digest_lib",
+    "crates/merge_sort_lib",
+    "crates/rev16_lib",
+    "crates/stereo_samples_lib",
+    "crates/crc16_lib",
+    "crates/normalize_lib",
+    "crates/rgb_to_hsv_lib",
+]
