@@ -3,7 +3,19 @@
 version = 4
 
 [[package]]
+name = "ferroprove_bits"
+version = "0.1.0"
+
+[[package]]
+name = "ferroprove_cjson"
+version = "0.1.0"
+
+[[package]]
 name = "ferroprove_crc16_lib"
+version = "0.1.0"
+
+[[package]]
+name = "ferroprove_cve4303"
 version = "0.1.0"
 
 [[package]]
@@ -11,7 +23,19 @@ name = "ferroprove_encode_quant_lib"
 version = "0.1.0"
 
 [[package]]
+name = "ferroprove_expr"
+version = "0.1.0"
+
+[[package]]
 name = "ferroprove_flac_validate_lib"
+version = "0.1.0"
+
+[[package]]
+name = "ferroprove_gcc_crc32"
+version = "0.1.0"
+
+[[package]]
+name = "ferroprove_git_hex"
 version = "0.1.0"
 
 [[package]]
@@ -27,6 +51,14 @@ name = "ferroprove_hsv_to_rgb_lib"
 version = "0.1.0"
 
 [[package]]
+name = "ferroprove_libsodium_src_libsodium_sodium_utils"
+version = "0.1.0"
+
+[[package]]
+name = "ferroprove_linux_lib_crc8"
+version = "0.1.0"
+
+[[package]]
 name = "ferroprove_max_size_frame_lib"
 version = "0.1.0"
 
@@ -39,7 +71,19 @@ name = "ferroprove_merge_sort_lib"
 version = "0.1.0"
 
 [[package]]
+name = "ferroprove_musl_src_stdlib_atoi"
+version = "0.1.0"
+
+[[package]]
 name = "ferroprove_normalize_lib"
+version = "0.1.0"
+
+[[package]]
+name = "ferroprove_pkthdr"
+version = "0.1.0"
+
+[[package]]
+name = "ferroprove_redis_src_crc16"
 version = "0.1.0"
 
 [[package]]
@@ -51,5 +95,17 @@ name = "ferroprove_rgb_to_hsv_lib"
 version = "0.1.0"
 
 [[package]]
+name = "ferroprove_src_lib_libc_string_timingsafe_bcmp"
+version = "0.1.0"
+
+[[package]]
 name = "ferroprove_stereo_samples_lib"
+version = "0.1.0"
+
+[[package]]
+name = "ferroprove_tlv"
+version = "0.1.0"
+
+[[package]]
+name = "ferroprove_zlib_adler32"
 version = "0.1.0"
